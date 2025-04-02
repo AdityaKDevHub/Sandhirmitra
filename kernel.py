@@ -175,7 +175,7 @@ def Visarg_Sandhi(term1, term2, end, start):
 		return term1[:-1] + term2
 
 def main():
-	term1, term2 = input("प्रतमं पदं देहि (Enter first term): "), input("द्वितीयं पदं देहि (Enter second term): ")
+	term1, term2 = input("प्रथमं पदं देहि (Enter first term): "), input("द्वितीयं पदं देहि (Enter second term): ")
 	end, start = term1[-1], term2[0]
 	result = None
 
