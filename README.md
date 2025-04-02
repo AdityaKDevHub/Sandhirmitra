@@ -26,8 +26,8 @@
 > ## Example
 >  ```sh
 >प्रतमं पदं देहि (Enter first term): शिवः
-द्वितीयं पदं देहि (Enter second term): अहम्
-शिवः + अहम् = शिवोऽहम्
+>द्वितीयं पदं देहि (Enter second term): अहम्
+>शिवः + अहम् = शिवोऽहम्
 >  ```
 
 Thank You! \
